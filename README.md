@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m currently learning TVM STack, and come to be a postgraduate of UCAS (Institute of Computer Technology), focus on Intelligent computer development.
+I’m currently learning TVM Stack, and about to become a postgraduate of UCAS (Institute of Computer Technology), focus on Intelligent computer development.
 
 - 📫 How to reach me: http://leiblog.wang
 
