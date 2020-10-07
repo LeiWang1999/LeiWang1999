@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🌱 I’m currently learning TVM STack, and come to be a postgraduate of UCAS (Institute of Computer Technology), focus on Intelligent computer development.
+
+- 📫 How to reach me: http://leiblog.wang
 
 ![My GitHub](https://github-readme-stats.vercel.app/api?username=LeiWang1999&count_private=true&show_icons=true&theme=buefy&include_all_commits=true)
 
