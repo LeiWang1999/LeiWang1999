@@ -22,4 +22,3 @@ I’m now a graduate of njtech, about to become a postgraduate of UCAS (Institut
 ## I’m currently learning
   - [TVM Stack](https://tvm.apache.org/)
   - [FPGA](https://github.com/LeiWang1999/FPGA)
-  - English
