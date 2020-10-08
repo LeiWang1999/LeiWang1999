@@ -12,7 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I’m now a graduate of njtech, about to become a postgraduate of UCAS (Institute of Computer Technology) by postgraduate recommendation, focus on Intelligent computer development.
 
-I’m currently learning TVM Stack, and about to become a postgraduate of UCAS (Institute of Computer Technology), focus on Intelligent computer development.
-- [Lei's Blog](http://leiblog.wang)
-- [Email Me](2230647190@njtech.edu.cn)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=LeiWang1999&count_private=true&show_icons=true&theme=buefy&include_all_commits=true">
+
+- 💻 macOS user
+- 📱 iphone user
+- 💞 ACGN lover
+
+## 🌱 I’m currently learning ...
+  - [TVM Stack](https://tvm.apache.org/)
+  - [FPGA](https://github.com/LeiWang1999/FPGA)
+  - Machine Learning
+  - VLSI
+  - English
