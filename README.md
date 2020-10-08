@@ -14,9 +14,5 @@ Here are some ideas to get you started:
 -->
 
 I’m currently learning TVM Stack, and about to become a postgraduate of UCAS (Institute of Computer Technology), focus on Intelligent computer development.
-
-- 📫 How to reach me: http://leiblog.wang
-
-![My GitHub](https://github-readme-stats.vercel.app/api?username=LeiWang1999&count_private=true&show_icons=true&theme=buefy&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeiWang1999&theme=buefy&hide=html,php,css&count_private=true&show_icons=true&layout=compact)
+- [Lei's Blog](http://leiblog.wang)
+- [Email Me](2230647190@njtech.edu.cn)
