@@ -18,6 +18,7 @@ I’m currently a graduate of njtech, about to become a postgraduate of UCAS (In
 
 - First Prize of [NUEDC](https://www.nuedc-training.com.cn/)
 - ACGN lover
+- 📫 About WangLei(https://leiblog.wang/about)
 
 ## I’m currently learning
   - [TVM Stack](https://tvm.apache.org/)
