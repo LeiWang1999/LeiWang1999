@@ -20,6 +20,6 @@ I’m currently a graduate of njtech, about to become a postgraduate of UCAS (In
 - ACGN lover
 - 📫 About [WangLei](https://leiblog.wang/about)
 
-## I’m currently learning
+## I’m currently focus
   - [TVM Stack](https://tvm.apache.org/)
   - [FPGA](https://github.com/LeiWang1999/FPGA)
