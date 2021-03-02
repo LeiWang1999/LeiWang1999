@@ -18,6 +18,7 @@ I’m currently a graduate of njtech, about to become a postgraduate of UCAS (In
 
 - First Prize of [NUEDC](https://www.nuedc-training.com.cn/)
 - ACGN lover
+- Codewars Trainer ![codewars_logo](https://www.codewars.com/users/LeiWang1999/badges/large?logo=true)
 - 📫 [For More Information](https://leiblog.wang/about)
 
 ## I’m currently focus
