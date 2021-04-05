@@ -25,12 +25,7 @@ I’m currently a graduate of njtech, about to become a postgraduate of UCAS (In
   - [FPGA](https://github.com/LeiWang1999/FPGA)
   - [NVDLA](https://github.com/nvdla)
 
-<div align="center">
 ### 🌐 Visitors
-</div>
-
-<div align="center">
 
 ![vistor homepage](https://visitor-badge.glitch.me/badge?page_id=leiwang1999.leiwang1999)
 
-</div>
