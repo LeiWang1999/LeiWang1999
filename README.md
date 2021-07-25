@@ -12,16 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I’m currently a graduate of njtech, about to become a postgraduate of UCAS (Institute of Computer Technology) by postgraduate recommendation, focus on Intelligent computer development.
 
-- First Prize of [NUEDC](https://www.nuedc-training.com.cn/)
-- ACGN lover
-- 📫 [For More Information](https://leiblog.wang/about)
 
 ## I’m currently focus
   - [TVM Stack](https://tvm.apache.org/)
   - [FPGA](https://github.com/LeiWang1999/FPGA)
   - [NVDLA](https://github.com/nvdla)
+
+📫 [For More Information](https://leiblog.wang/about)
+
 
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=leiwang1999.leiwang1999">
 
