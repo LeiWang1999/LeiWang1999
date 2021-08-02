@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 
 
 ## I’m currently focus
-  - [TVM Stack](https://tvm.apache.org/)
-  - [FPGA](https://github.com/LeiWang1999/FPGA)
-  - [NVDLA](https://github.com/nvdla)
+  - [CPU Fallback based on Tengine](https://github.com/OAID/Tengine)
+  - [Opensoure Accelerator System Design](https://github.com/LeiWang1999/ZYNQ-NVDLA)  
 
-📫 [For More Information](https://leiblog.wang/about)
 
 
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=leiwang1999.leiwang1999">
