@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
-## I’m currently focus
+I’m currently focus:
+
   - [CPU Fallback based on Tengine](https://github.com/OAID/Tengine)
   - [Opensoure Accelerator System Design](https://github.com/LeiWang1999/ZYNQ-NVDLA)  
 
