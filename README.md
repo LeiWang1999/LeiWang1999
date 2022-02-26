@@ -18,6 +18,8 @@ I’m currently focus:
 
   - [CPU Fallback based on Tengine](https://github.com/OAID/Tengine)
   - [Opensoure Accelerator System Design](https://github.com/LeiWang1999/ZYNQ-NVDLA)  
+  - Sparse Tensor Computation
+  - MLIR based compiler system
 
 
 
