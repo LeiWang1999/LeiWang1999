@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 I’m currently focus:
 
-  - Sparse Tensor Computation
-  - MLIR based compiler system
+  - [Sparse Tensor Computation](https://github.com/microsoft/SparTA/tree/nmsparse_artifact)
+  - on-device llm
   - [Opensoure Accelerator System Design](https://github.com/LeiWang1999/ZYNQ-NVDLA) 
   - [CPU Fallback based on Tengine](https://github.com/OAID/Tengine) [[slides](https://github.com/LeiWang1999/ZYNQ-NVDLA/TengineTalk.pdf)] [[recording](https://www.bilibili.com/video/BV1z44y1478k)]
  
