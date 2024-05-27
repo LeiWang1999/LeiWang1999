@@ -20,9 +20,6 @@ I’m currently focus:
   - on-device llm
   - [Opensoure Accelerator System Design](https://github.com/LeiWang1999/ZYNQ-NVDLA) 
   - [CPU Fallback based on Tengine](https://github.com/OAID/Tengine) [[slides](https://github.com/LeiWang1999/ZYNQ-NVDLA/TengineTalk.pdf)] [[recording](https://www.bilibili.com/video/BV1z44y1478k)]
- 
-I'm also looking for a mlsys phd position :)
-
 
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=leiwang1999.leiwang1999">
 
